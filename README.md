@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Dhruv Tripathi
 
-- 🎓 Chairperson, IEEE PSIT Student Branch | Computer Science Enthusiast  
+- 🎓 Chairperson, IEEE PSIT Student Branch | Nano Technology Enthusiast  
 - 💻 Passionate about open-source, AI/ML, and full-stack development  
 - 🌱 Currently exploring Data Structures, Algorithms, and Cloud Computing  
 - 🚀 Love building projects that create real-world impact  
